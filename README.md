@@ -6,6 +6,7 @@ You can open the project in Rider or VS. build it then run it :)
 
 Compile it and run it:
 
-csc Program.cs
-Program.exe
+1- csc Program.cs
+
+2- Program.exe
 
